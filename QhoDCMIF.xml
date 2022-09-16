@@ -524,18 +524,6 @@
                <placeName ref="https://sws.geonames.org/4414672">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc ref="https://qhod.net/o:sema.l.osm.YYYYMMDD"
-                      source="#c3a12a74-341f-11ed-a261-0242ac120002">
-            <correspAction type="sent">
-               <persName>Selim II</persName>
-               <date/>
-               <placeName ref="https://sws.geonames.org/745044">Istanbul</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName>Maximilian II</persName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
-            </correspAction>
-         </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191005"
                       source="#c3a12a74-341f-11ed-a261-0242ac120002">
             <correspAction type="sent">
@@ -576,7 +564,7 @@
                       source="#c3a12a74-341f-11ed-a261-0242ac120002">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/102205337">Damian Hugo von Virmont</persName>
-               <placeName ref="#http://sws.geonames.org/747712">Edirne</placeName>
+               <placeName ref="http://sws.geonames.org/747712">Edirne</placeName>
                <date when="1719-07-18"/>
             </correspAction>
             <correspAction type="received">
@@ -949,8 +937,6 @@
                       source="#c3a12a74-341f-11ed-a261-0242ac120002">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/102205337">Damian Hugo von Virmont</persName>
-               <placeName ref="https://sws.geonames.org/$$$">Ciopalek</placeName>
-               <!-- keine Ahnung, was das für ein Ort ist! -->
                <date when="1720-06-13"/>
             </correspAction>
             <correspAction type="received">
@@ -962,8 +948,6 @@
                       source="#c3a12a74-341f-11ed-a261-0242ac120002">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/102205337">Damian Hugo von Virmont</persName>
-               <placeName ref="https://sws.geonames.org/$$$">Ciopalek</placeName>
-               <!-- keine Ahnung, was das für ein Ort ist! -->
                <date when="1720-06-15"/>
             </correspAction>
             <correspAction type="received">
