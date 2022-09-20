@@ -6,7 +6,7 @@
          <titleStmt>
             <title xml:lang="de">CMIF data for QhoD project</title>
             <editor ref="https://orcid.org/0000-0003-2546-2570 http://d-nb.info/gnd/13281899X">
-               <persName>Stephan Kurz</persName>
+               Stephan Kurz <email>stephan.kurz@oeaw.ac.at</email>
             </editor>
          </titleStmt>
          <publicationStmt>
@@ -15,7 +15,7 @@
             <idno type="url">https://qhod.net/archive/objects/o:qhod.cmif/methods/sdef:TEI/getSource</idno>
             <date when="2022"/>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">CC-BY 4.0</licence>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
          </publicationStmt>
          <!--<seriesStmt>
