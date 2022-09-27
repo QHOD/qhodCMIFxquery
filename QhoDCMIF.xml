@@ -276,7 +276,7 @@
                            type="sent">
                <persName ref="https://d-nb.info/gnd/138054231">Selim II.</persName>
                <date notBefore="1569-01-09" notAfter="1569-01-18"/>
-               <placeName ref="http://sws.geonames.org/7732464">Çatalca</placeName>
+               <placeName ref="https://www.geonames.org/749644">Çatalca</placeName>
             </correspAction>
             <correspAction xmlns:tei="http://www.tei-c.org/ns/1.0"
                            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc"
@@ -510,7 +510,7 @@
                            type="sent">
                <persName ref="https://d-nb.info/gnd/138054231">Selim II.</persName>
                <date notBefore="1569-12-01" notAfter="1569-12-09"/>
-               <placeName ref="https://sws.geonames.org/311303">Inecik</placeName>
+               <placeName ref="https://sws.geonames.org/311303">İnecik</placeName>
             </correspAction>
             <correspAction xmlns:tei="http://www.tei-c.org/ns/1.0"
                            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc"
@@ -533,7 +533,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190906"
@@ -545,7 +545,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190813.2"
@@ -557,7 +557,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190718"
@@ -569,7 +569,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190622.2"
@@ -581,7 +581,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190527"
@@ -593,7 +593,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190528"
@@ -606,7 +606,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
                <!-- JS: removed @ref and @evidence from placeName here (see above)-->
             </correspAction>
          </correspDesc>
@@ -619,7 +619,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190630"
@@ -631,7 +631,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190531"
@@ -643,7 +643,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190607"
@@ -655,7 +655,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190709"
@@ -667,7 +667,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190609"
@@ -679,7 +679,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190813"
@@ -691,7 +691,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118560107">Kaiser Karl VI.</persName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190622"
@@ -703,7 +703,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118560107">Kaiser Karl VI.</persName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200501"
@@ -715,7 +715,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191018"
@@ -727,7 +727,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191025"
@@ -739,7 +739,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191115"
@@ -751,7 +751,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191203"
@@ -763,7 +763,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191203.2"
@@ -775,7 +775,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191211"
@@ -787,7 +787,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191219"
@@ -799,7 +799,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200103"
@@ -811,7 +811,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191207"
@@ -823,7 +823,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191207.2"
@@ -835,7 +835,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17190531.2"
@@ -847,7 +847,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118560107">Karl VI.</persName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191108"
@@ -859,7 +859,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118560107">Karl VI.</persName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200712"
@@ -871,7 +871,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17191021"
@@ -894,7 +894,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200621"
@@ -906,7 +906,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/790132">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200623"
@@ -918,7 +918,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200704"
@@ -930,7 +930,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200613"
@@ -941,7 +941,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200615"
@@ -952,7 +952,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200617"
@@ -964,7 +964,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200617.2"
@@ -976,7 +976,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/790132">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200602"
@@ -988,7 +988,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200607"
@@ -1000,7 +1000,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200529"
@@ -1012,7 +1012,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200606"
@@ -1024,7 +1024,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200522"
@@ -1036,7 +1036,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200512"
@@ -1048,7 +1048,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200416.2"
@@ -1060,7 +1060,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200414"
@@ -1072,7 +1072,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118560107">Kaiser Karl VI.</persName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200324"
@@ -1084,7 +1084,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200404"
@@ -1096,7 +1096,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200403"
@@ -1108,7 +1108,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118605941">Eugen von Savoyen-Carignan</persName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200311"
@@ -1120,7 +1120,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/5278998">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
       </profileDesc>
