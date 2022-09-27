@@ -18,9 +18,11 @@ may be necessary to achieve conformity with the schema.
 above XQuery to the letterlike material available through <https://qhod.net>
 at the time (2022-09-14).
 
-## Hint
+## Hints
 
 <https://encoding-correspondence.bbaw.de> has resources on usage of CMIF 
 and encoding correspondence in general. 
 
+https://correspsearch.net/services/check-cmif.html?url=https://raw.githubusercontent.com/QHOD/qhodCMIFxquery/main/QhoDCMIF.xml they also provide a checking tool. 
 
+https://github.com/csae8092/cmifun provides visualisations that may be helpful for checking data integrity.
