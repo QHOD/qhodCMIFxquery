@@ -38,7 +38,7 @@
                <persName ref="https://d-nb.info/gnd/118560107">Karl VI</persName>
                <date when="1720-04-10"/>
                <placeName
-                          ref="https://sws.geonames.org/2761333">Vienna</placeName>
+                          ref="https://sws.geonames.org/2761369">Vienna</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/1018616411">Damad İbrahim Paşa</persName>
@@ -51,7 +51,7 @@
                <persName ref="https://d-nb.info/gnd/118560107">Karl VI</persName>
                <date when="1720-04-10"/>
                <placeName
-                          ref="https://sws.geonames.org/2761333">Vienna</placeName>
+                          ref="https://sws.geonames.org/2761369">Vienna</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/101094108">Ahmed III</persName>
@@ -68,7 +68,7 @@
             <correspAction type="received">
                <persName>İbrahim Paşa</persName>
                <placeName
-                          ref="https://sws.geonames.org/2761333">Vienna</placeName>
+                          ref="https://sws.geonames.org/2761369">Vienna</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.osm.17200320.1"
@@ -81,7 +81,7 @@
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118560107">Karl VI</persName>
                <placeName
-                          ref="https://sws.geonames.org/2761333">Vienna</placeName>
+                          ref="https://sws.geonames.org/2761369">Vienna</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.osm.17200320.2"
@@ -94,7 +94,7 @@
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118560107">Karl VI</persName>
                <placeName
-                          ref="https://sws.geonames.org/2761333">Vienna</placeName>
+                          ref="https://sws.geonames.org/2761369">Vienna</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.osm.1720421"
@@ -107,7 +107,7 @@
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118605941">Prinz Eugen</persName>
                <placeName
-                          ref="https://sws.geonames.org/2761333">Vienna</placeName>
+                          ref="https://sws.geonames.org/2761369">Vienna</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:sema.rc.osm.15670321"
@@ -976,7 +976,7 @@
             </correspAction>
             <correspAction type="received">
                <orgName ref="https://d-nb.info/gnd/4520865-7">Hofkriegsrat</orgName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc ref="https://qhod.net/o:vipa.l.hbg.17200602"
