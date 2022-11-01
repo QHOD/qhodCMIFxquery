@@ -32,7 +32,7 @@ Output might need some XSL postprocessing in order to validate against the stric
       <publicationStmt>
         <publisher>Austrian Academy of Sciences, Institute for Habsburg and Balkan Studies</publisher>
         <idno type="PID">o:qhod.cmif</idno>
-        <idno type="url">https://qhod.net/archive/objects/o:qhod.cmif/methods/sdef:TEI/getSource</idno>
+        <idno type="url">http://gams.uni-graz.at/archive/get/o:qhod.cmif/TEI_SOURCE</idno>
         <date when="2022"/>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
