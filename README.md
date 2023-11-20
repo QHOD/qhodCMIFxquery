@@ -23,6 +23,6 @@ at the time (2022-09-14).
 <https://encoding-correspondence.bbaw.de> has resources on usage of CMIF 
 and encoding correspondence in general. 
 
-https://correspsearch.net/services/check-cmif.html?url=https://raw.githubusercontent.com/QHOD/qhodCMIFxquery/main/QhoDCMIF.xml they also provide a checking tool. 
+https://correspsearch.net/api/v2.0/services/check/index.xql?url=https://raw.githubusercontent.com/QHOD/qhodCMIFxquery/main/QhoDCMIF.xml they also provide a checking tool. 
 
 https://github.com/csae8092/cmifun provides visualisations that may be helpful for checking data integrity.
